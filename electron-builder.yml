@@ -1,8 +1,8 @@
 appId: 'altisoflife'
-productName: 'AltisOfLife'
+productName: 'Altis-Of-Life'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2013-2025 AltisOfLife'
+copyright: 'Copyright © 2013-2026 Altis-Of-Life'
 
 asar: true
 compression: 'maximum'
