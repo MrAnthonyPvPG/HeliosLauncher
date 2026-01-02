@@ -1,9 +1,9 @@
 {
   "name": "altisoflife",
   "version": "4.0.0",
-  "productName": "AltisOfLife",
+  "productName": "Altis-Of-Life",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi / AltisOfLife",
+  "author": "Daniel Scalzi / Altis-Of-Life",
   "license": "UNLICENSED",
   "homepage": "https://github.com/AltisOfLife/HeliosLauncher",
   "bugs": {
