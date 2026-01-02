@@ -1,13 +1,13 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Altis-Of-Life"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/AltisOfLife/HeliosLauncher"
-mediaXURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaXURL = "https://x.com/AltisOfLife"
+mediaInstagramURL = "https://www.instagram.com/altisoflife/"
+mediaYouTubeURL = "https://www.youtube.com/@altis-of-life-officiel7927"
 mediaDiscordURL = "https://discord.gg/altisoflife"
 
 [ejs.settings]
@@ -16,5 +16,5 @@ supportLink = "https://github.com/AltisOfLife/HeliosLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "Bienvenue sur Altis-Of-Life"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeDescription = "Altis-Of-Life, c'est plus de douze ans d'existence à travers trois versions. Ce serveur RolePlay, basé sur Minecraft 1.7.10 et enrichi de nombreux mods, transforme votre expérience de jeu en y ajoutant des éléments inédits au gameplay."
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics d'Altis-Of-Life."
